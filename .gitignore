@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# ipython
+.ipynb_checkpoints
+
+# random stuff
+*.csv
+OldAttempts
